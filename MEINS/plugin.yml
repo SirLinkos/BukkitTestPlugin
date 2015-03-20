@@ -1,0 +1,14 @@
+main: me.linkos.test.TEST
+name: Testerino
+version: 0.1
+author: Linkos
+
+commands:
+  test:
+    description: Testerino de Commando
+    usage: /<command>
+  teleport:
+    description: Teleportiert was denn auch sonst
+    usage: /<command> [Player]  
+  
+    
